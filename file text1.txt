@@ -3,3 +3,6 @@ import pandas as pd
 # code ini berasal dari local
 
 code dari Ameera dan Ghina
+testing 1 2 3
+
+import seaborn as sns
